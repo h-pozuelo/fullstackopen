@@ -1,0 +1,79 @@
+{
+  "notes": [
+    {
+      "id": "1",
+      "content": "custom-hooks are awesome!"
+    },
+    {
+      "id": "2",
+      "content": "best feature ever <3"
+    },
+    {
+      "id": "2c5a",
+      "content": "custom hook"
+    },
+    {
+      "id": "64fa",
+      "content": "custom hook"
+    },
+    {
+      "id": "dc9a",
+      "content": "custom hook"
+    },
+    {
+      "id": "7d10",
+      "content": "custom hook"
+    },
+    {
+      "id": "051a",
+      "content": "custom hook"
+    }
+  ],
+  "persons": [
+    {
+      "id": "1",
+      "name": "mluukkai",
+      "number": "040-5483923"
+    },
+    {
+      "id": "2",
+      "name": "hellas",
+      "number": "012-123123"
+    },
+    {
+      "id": "24f5",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "dd14",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "f040",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "5491",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "78c6",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "98fa",
+      "name": "dawdawd",
+      "number": "awdawd"
+    },
+    {
+      "id": "02fd",
+      "name": "dawdawd",
+      "number": "awdawd"
+    }
+  ]
+}
